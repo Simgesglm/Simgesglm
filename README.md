@@ -8,7 +8,7 @@
 - 💬 Ask me about anything from simgesaglam99@icloud.com
   
 ## 🔗 Let's Connect! 
-<a href="https://www.linkedin.com/in/sımgesaglam/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/simgesaglam/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/simsglmm/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v2.png"/></a>
 <a href="mailto:simgesaglam99@icloud.com" target="_blank"><img src="https://img.icons8.com/glyph-neue/64/000000/gmail-new.png"/></a>
 ## 🚀 Languages and Tools:
